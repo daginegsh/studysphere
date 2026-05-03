@@ -1,3 +1,4 @@
+<img width="390" height="848" alt="screen" src="https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd" />
 # studysphere
 
 A new Flutter project.
