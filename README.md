@@ -4,11 +4,7 @@
 
 ![Login Screen](https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd)
 
-## 📱 Screenshots
 
-| Login Screen |
-|-------------|
-| <img src="https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd" width="200"> |
 
 ## ✨ Features
 
