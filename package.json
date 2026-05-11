@@ -1,0 +1,13 @@
+{
+  "name": "@daginegsh/studysphere",
+  "version": "1.0.0",
+  "description": "Smart study platform for students",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daginegsh/studysphere.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
