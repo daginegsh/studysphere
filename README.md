@@ -1,18 +1,39 @@
-<img width="390" height="848" alt="screen" src="https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd" />
-# studysphere
+# 🎓 StudySphere
 
-A new Flutter project.
+**Smart Study Platform** - A beautiful, user-friendly study companion app.
 
-## Getting Started
+![Login Screen](https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd)
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Login Screen |
+|-------------|
+| <img src="https://github.com/user-attachments/assets/60b9bda1-88e5-4015-97a7-cb835198acdd" width="200"> |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔐 **Secure Login** - Email and password authentication
+- 📚 **Study Dashboard** - Track your learning progress
+- ✅ **Task Management** - Create and manage study tasks
+- 📊 **Progress Analytics** - Visualize your study habits
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK (3.19.0 or higher)
+- Android Studio / VS Code
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/daginegsh/studysphere.git
+
+# Navigate to project
+cd studysphere
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
